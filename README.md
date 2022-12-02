@@ -1,4 +1,5 @@
-### Hi there, I'm Rafael Henrique, student at UFU (Federal University of Uberlandia) in Brazil. Graduating Computer Science, currently in the fourth period of eight. 👋
+### Hi there, I'm Rafael Henrique, student at UFU (Federal University of Uberlandia) in Brazil. 
+### Graduating Computer Science, currently in the fourth period of eight. 👋
 
 <!--
 **rafaelhguimaraes/rafaelhguimaraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
