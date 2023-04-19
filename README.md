@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelhguimaraes&theme=radical) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhguimaraes)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhguimaraes)](https://github.com/anuraghazra/github-readme-stats) <br>
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/rafaelhguimaraes/))
