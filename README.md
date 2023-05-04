@@ -1,6 +1,6 @@
 # Hi there, I'm Rafael Henrique, student at UFU (Federal University of Uberlandia) in Brazil. 😄
 ### Graduating Computer Science, currently in the fifth period of eight. 👋
-
+### I'm studying JavaScript, Python and Machine Learning with AWS. ☁️:
 <!--
 **rafaelhguimaraes/rafaelhguimaraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
