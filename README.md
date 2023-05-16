@@ -20,9 +20,3 @@ Here are some ideas to get you started:
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rafael_guima03)<br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelhguimaraes&theme=radical) <br>
 
-
-<div align="center">
-  <a href="https://github.com/rafaelhguimaraes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhguimaraes&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
