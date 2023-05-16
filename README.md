@@ -21,5 +21,8 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelhguimaraes&theme=radical) <br>
 
 
-
+<div align="center">
+  <a href="https://github.com/rafaelhguimaraes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelhguimaraes&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
