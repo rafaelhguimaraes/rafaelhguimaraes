@@ -1,22 +1,17 @@
-# Hi there, I'm Rafael Henrique, student at UFU (Federal University of Uberlandia) in Brazil. 😄
-### Graduating Computer Science, currently in the fifth period of eight. 👋
-### I'm studying JavaScript, Python and Machine Learning with AWS. ☁️:
-<!--
-**rafaelhguimaraes/rafaelhguimaraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>Hey there! 👋</h1>
+  <p>Welcome to my GitHub profile. I'm Rafael Henrique, a Computer Science student at UFU (Federal University of Uberlandia) in Brazil.</p>
+</div>
 
-Here are some ideas to get you started:
+### About Me:
+- 🎓 Graduating in Computer Science at UFU.
+- 📚 Currently in the fifth period of an eight-semester program.
+- 🌱 Learning JavaScript, Python, and exploring Machine Learning with AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with Me:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelhguimaraes/) 
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rafael_guima03)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/rafaelhguimaraes/)) 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rafael_guima03)<br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelhguimaraes&theme=radical) <br>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelhguimaraes&theme=radical" alt="GitHub Stats">
+</div>
